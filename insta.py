@@ -16,7 +16,7 @@ def insta_comment_bot():
     username = "hamode41735"
     password = "japan12%"
     target_url = "https://www.instagram.com/p/C2het1cPqkz/?img_index=1"
-    comment_list =  ['이새끼 애미는 왜 이런 클럽직원이나 하는 못배운 좆밥을 쳐낳은거지? 몸 팔다가 실수로 피임실패했나?','어떻게 이런 좆같은게 태어나지? 광연아 니네 애미애비 뭐하는 애들이야?','너 애가 왜 이렇게 좆같이 생겼어? 니네 부모 사진 좀 올려봐 닮았나 보게', '어떻게 이런 열등한 새끼가 이 세상에 나올 수가 있지. 애미애비가 실수로 쳐낳은 성욕 부산물 새끼']
+    comment_list =  ['이새끼 애미는 왜 이런 클럽직원이나 하는 못배운 좆밥을 쳐낳은거지? 몸 팔다가 실수로 피임실패했나?','이새끼 애미 씨발년은 어쩌다가 이런걸 쳐 낳았을까.. 애미도 무식하고 천박한 씨발년이겠지?','너 애가 왜 이렇게 좆같이 생겼어? 니네 부모 사진 좀 올려봐 닮았나 보게', '어떻게 이런 열등한 새끼가 이 세상에 나올 수가 있지. 애미애비가 실수로 쳐낳은 성욕 부산물 새끼']
   
     options = webdriver.ChromeOptions()
     options.add_argument("--no-sandbox")
